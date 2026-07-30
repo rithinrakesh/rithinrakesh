@@ -16,9 +16,6 @@ Engineering student passionate about IoT, embedded systems, and software.Turning
 
 ---
 
-### 📌 Featured Projects
-- 📌 **Smart LPG Cylinder Monitor:** An IoT-based weight tracking system with real-time level monitoring and auto-booking alerts.
-- 📌 **IoT Safety & Detection Systems:** Custom sensor setups for ambient monitoring, material discrimination, and real-time alerts.
 
 ---
 
